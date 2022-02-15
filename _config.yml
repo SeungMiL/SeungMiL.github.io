@@ -8,6 +8,7 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 
 # theme                  : "minimal-mistakes-jekyll"
@@ -105,7 +106,7 @@ author:
   name             : "Seung Min"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I want **amazing** person."
-  location         : "Somewhere"
+  location         : "Earth"
   email            :
   links:
     - label: "Email"
